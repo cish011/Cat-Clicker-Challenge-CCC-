@@ -1,0 +1,36 @@
+CAT CLICKER — GOOGLE-ONLY CHALLENGE
+
+RULES
+- No ChatGPT, Gemini, Copilot, or other AI for solving it.
+- Google Search, documentation, MDN, Stack Overflow, etc. are allowed.
+- Search ONE problem at a time; don't copy a complete cat-clicker tutorial.
+
+SECTION 1 — EASY
+- Cat picture
+- Text: Cats: 0
+- Clicking cat increases 0 → 1 → 2 → 3...
+Research if needed: variables, click event listeners, textContent.
+
+SECTION 2 — MEDIUM
+- Upgrade button
+- First upgrade costs 10 cats
+- It changes each click from +1 to +2
+- Later upgrades cost more
+- Can't buy when you can't afford it
+Research: if statements, subtracting cost, variables.
+
+SECTION 3 — HARDER
+- Show Cats per click
+- Show Cats per second
+- Add an upgrade that automatically creates cats every second
+Research: setInterval(), updating page values.
+
+SECTION 4 — SAVEITY
+Make progress survive refresh.
+Save cats, cats per click, cats per second, upgrade costs.
+Research: localStorage, JSON.stringify(), JSON.parse().
+
+OPTIONAL CHAOS
+Different cats, ridiculous upgrades, achievements, sounds, prestige/reset, random events, cat names.
+
+IMPORTANT: Make each section work before moving to the next.
